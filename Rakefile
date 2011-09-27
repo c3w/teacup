@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "teacup"
   gem.homepage = "http://github.com/c3w/teacup"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{this is a summary}
+  gem.description = %Q{this is a long desc}
   gem.email = "c3w@juicypop.net"
   gem.authors = ["Chas Wareing"]
   # dependencies defined in Gemfile

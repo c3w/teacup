@@ -11,3 +11,5 @@ group :development do
   gem "jeweler", "~> 1.6.4"
   gem "rcov", ">= 0"
 end
+
+gem "GData", "~> 0.0.4"
